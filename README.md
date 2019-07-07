@@ -1,5 +1,5 @@
 # Visualizing Institutional Scholar Relationships (VISR)
-Data and Visual Analytics Project
+![Presentation Poster](poster.png)
 
 View the project live at [TBD] (Note it will take some time to download and load the data files)
 
