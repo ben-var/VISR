@@ -1,5 +1,3 @@
-![Presentation Poster](poster.png)
-
 # Visualizing Institutional Scholar Relationships (VISR)
 
 View the project live at [TBD] (Note it will take some time to download and load the data files)
@@ -86,3 +84,5 @@ Steps:
 3. Field names are converted to ID values specified in FOSIDMAP.txt via bash script replace.sh
 
 This output is merged with the institution data and sent to Hadoop MapReduce
+
+![Presentation Poster](poster.png)
